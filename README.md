@@ -549,3 +549,13 @@ ICML
 SIGKDD
 
 ✓ ICSE
+
+### 【题目】下面哪个城市没有SUNY（纽约州立大学）校区？
+
+Buffalo
+
+Stony brook
+
+Albany
+
+✓ Fulton
